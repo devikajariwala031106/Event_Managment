@@ -32,6 +32,8 @@
 
 📁 Organized the project into a clean folder structure for better scalability and readability.
 
+💡 A beginner-friendly full-stack project demonstrating React.js, Express.js, MongoDB, REST APIs, responsive web design, and complete CRUD functionality.
+
 <img width="1920" height="1030" alt="Event-1" src="https://github.com/user-attachments/assets/29fe2ccd-2b66-4cd3-8f5f-b62b163ad89a" />
 
 <img width="1920" height="1030" alt="Event-2" src="https://github.com/user-attachments/assets/868201d4-4e29-4854-a221-cb674179adf9" />
@@ -39,5 +41,3 @@
 <img width="1920" height="1030" alt="Event-3" src="https://github.com/user-attachments/assets/ba845781-91ae-44fa-9b7c-c445d5c1b4b4" />
 
 <img width="1920" height="1030" alt="Event-4" src="https://github.com/user-attachments/assets/ab8a91aa-953d-4b87-8f13-8aefbab34d9e" />
-
-💡 A beginner-friendly full-stack project demonstrating React.js, Express.js, MongoDB, REST APIs, responsive web design, and complete CRUD functionality.
